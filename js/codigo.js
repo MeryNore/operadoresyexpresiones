@@ -11,6 +11,14 @@ function principal() {
     document.getElementById("btn-reto6").onclick = btnReto6;
 }
 
+//Reto 1. Calculadora de operadores 
 function btnReto1() {
-    
+    let numero1, numero2, puntos;
+    numero1 = 17;
+    numero2 = 5;
+    puntos = 10;
+    puntos += 5;
+    puntos *= 2;
+    puntos -= 4;
+
 }
